@@ -2,7 +2,7 @@
 
 ## 📖 项目简介
 
-`VideoConverter` 是一个用于批量转换视频格式的工具，旨在帮助用户方便转换视频格式，并且支持修改视频参数。
+`VideoConverter` 是一个基于 FFmpeg 开发的轻量级视频批量转换工具，提供极速无损模式与自定义参数模式，支持智能检测并启用 NVIDIA、AMD、Intel 显卡硬件加速。
 
 ### 🖼️ 软件预览
 <p align="center">
